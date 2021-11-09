@@ -3,7 +3,7 @@
 ![](https://github.com/cguertin14/load-tester/workflows/ci/badge.svg)
 ![](https://img.shields.io/docker/pulls/cguertz/load-tester.svg)
 
-Load-tester Docker image. Fork from `docker.io/argoproj/load-tester` using Alpine Linux.
+Load-tester Docker image. Fork of `docker.io/argoproj/load-tester` using Alpine Linux.
 
 ## Included tools
 
